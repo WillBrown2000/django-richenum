@@ -13,7 +13,7 @@ tests_require = (
 
 
 install_requires = (
-    'Django>=2.2,<3.3',
+    'Django<=4.2.4',
     'richenum',
 )
 
